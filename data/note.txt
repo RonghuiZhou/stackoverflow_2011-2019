@@ -1,1 +1,11 @@
 
+# =============================================================================
+# Download data file from this website
+# https://insights.stackoverflow.com/survey
+# 
+# Rename data files as: survey_results_[YEAR].csv in .\data folder (survey_results_2019.csv)
+# Rename schema files as: survey_results_schema_[YEAR].csv in .\data\schema folder (survey_results_schema_2019.csv)
+
+# Python files are in .\analysis folder
+
+# =============================================================================

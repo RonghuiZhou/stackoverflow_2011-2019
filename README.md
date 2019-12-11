@@ -8,3 +8,11 @@ I am planning to select 5 industries and 5 countries to compare the difference: 
 and compare the trend from 2011 to 2019
 
 ### Data source: https://insights.stackoverflow.com/survey
+
+
+
+### Techniques to be used:
+
+#### 1. Visualization:
+
+sns.countplot: http://seaborn.pydata.org/generated/seaborn.countplot.html

@@ -16,3 +16,6 @@ and compare the trend from 2011 to 2019.
 #### 1. Visualization:
 
 sns.countplot: http://seaborn.pydata.org/generated/seaborn.countplot.html
+
+
+I was originally planning to compare data by year, but they have different column names and it's time consuming to figure out which is which. So I will go with the year 2019.
